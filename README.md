@@ -1,5 +1,3 @@
-### README for Quantum Computing Learning Repository
-
 # Quantum Computing📚✨  
 Welcome to the **Quantum Computing** repository! This repository is a structured learning journey through the fascinating world of quantum computing, tailored to help you grasp both fundamental and advanced concepts.
 
