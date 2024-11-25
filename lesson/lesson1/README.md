@@ -49,8 +49,9 @@ We welcome contributions to this repository! Feel free to submit pull requests w
 ---
 
 ### Resources and Credits 📚  
-- **Video Creator**: [Insert Name/Channel of the Video Creator]  
-- **Additional Reading**: [Links to relevant articles or books]  
-- **Quantum Computing Frameworks**: [Links to frameworks like Qiskit, Cirq, etc.]
+- **Video Creator**: [https://www.youtube.com/@quantum-soar]  
+- **Additional Reading**: [https://www.ibm.com/topics/quantum-computing]  
+- **Quantum Computing Frameworks**: [https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview]
+
 
 Happy learning! 🌟 
