@@ -20,34 +20,6 @@ Understanding quantum computing requires a blend of physics, mathematics, and co
 
 This repository is divided into a series of lessons, with each lesson corresponding to a core concept in quantum computing. This first video covers **imaginary and complex numbers**, crucial for understanding the mathematics of quantum mechanics.
 
-### Lesson 1: Imaginary and Complex Numbers 🌀  
-
-#### **Overview**  
-Imaginary and complex numbers extend our understanding of mathematics, offering solutions to equations that classical numbers cannot solve. These numbers are foundational in quantum mechanics, where they model quantum states and facilitate advanced calculations.
-
----
-
-### What i Learnt:  
-1. **Understanding Square Roots**: Learn why equations like \( x^2 = 4 \) give \( x = \pm 2 \).  
-2. **Imaginary Numbers**: Discover how \( \sqrt{-4} = \pm 2i \) introduces the concept of the imaginary unit (\( i \)), where \( i^2 = -1 \).  
-3. **Complex Numbers**: Combine real and imaginary parts to form numbers of the form \( a + bi \).  
-4. **Operations with Complex Numbers**:  
-   - **Addition**: Combine real and imaginary parts directly.  
-   - **Multiplication**: Apply rules, remembering \( i^2 = -1 \).  
-5. **Complex Conjugates**: Understand conjugates (e.g., \( a + bi \) becomes \( a - bi \)) and their utility in simplifying calculations.  
-6. **Applications**: Explore the role of complex numbers in quantum mechanics, engineering, and real-world problem-solving.  
-
----
-
-#### **Key Highlights**:  
-- Imaginary numbers extend classical mathematics to solve equations with negative roots. 🌌  
-- Complex numbers provide a mathematical framework essential in quantum mechanics. 📊  
-- Operations like addition and multiplication are straightforward but critical. 🔍  
-- Complex conjugates simplify computations and help derive real results. 📏  
-- These concepts model quantum states effectively, laying the groundwork for understanding quantum computing. 🌟  
-
----
-
 ### Repository Structure 📂  
 
 - **`docs/`**: Contains additional reading material and notes for each lesson.  
